@@ -25,6 +25,6 @@ pipeline {
                     echo "The result of the script is: \n${result}"
                 }
             }
-       
-    }
+        }
+    }
 }
